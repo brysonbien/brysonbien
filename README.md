@@ -1,9 +1,10 @@
-## Hi 👋, I'm Bryson!
+# Hi 👋, I'm Bryson!
 
-Computer Science at Georgia Institute of Technology
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brysonbien)
+
+### 🎓 Computer Science at Georgia Institute of Technology
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 * Career Focus: Software Engineering
 
-📫 How to reach me:
-
-Email: brysonbien@gatech.edu
+### 📫 How to reach me:
+* Email: brysonbien@gatech.edu
