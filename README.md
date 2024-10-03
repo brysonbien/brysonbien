@@ -9,5 +9,5 @@
 ### 🎓 Computer Science at Georgia Institute of Technology
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 
-### 📊 GitHub Stats
+### ⚙️ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonbien&layout=compact&theme=radical)
