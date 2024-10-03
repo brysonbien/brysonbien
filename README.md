@@ -6,5 +6,4 @@
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 * Career Focus: Software Engineering
 
-### 📫 Contact Me:
-* Email: brysonbien@gatech.edu
+### 📫 Contact Me: brysonbien@gatech.edu
