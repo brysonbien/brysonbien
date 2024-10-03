@@ -8,5 +8,4 @@
 * Career Focus: Software Engineering
 
 ### 📊 GitHub Stats
-![Bryson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brysonbien&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonbien&layout=compact&theme=radical)
