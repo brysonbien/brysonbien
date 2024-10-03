@@ -6,3 +6,7 @@
 ### 🎓 Computer Science at Georgia Institute of Technology
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 * Career Focus: Software Engineering
+
+### 📊 GitHub Stats
+![Bryson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
