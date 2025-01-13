@@ -5,6 +5,7 @@
 
 ### 👨‍💻 About Me
 * I’m passionate about developing innovative software, discovering new music, and staying competitive through sports!
+* Below are some of the coding projects I've made!
 
 ### 🎓 Computer Science at Georgia Institute of Technology
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
