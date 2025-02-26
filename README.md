@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brysonbien@gmail.com)
 
 ### 👨‍💻 About Me
-* I’m passionate about software engineering, discovering new music, and playing sports/strategic games!
+* I’m passionate about Software Engineering, discovering new music, and playing sports/strategic games!
 * Below are some of the coding projects I've made.
 
 ### 🎓 Computer Science at Georgia Institute of Technology
