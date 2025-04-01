@@ -13,5 +13,3 @@
 
 ### ⚙️ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonbien&layout=compact&theme=radical)
-![Bryson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brysonbien&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brysonbien&theme=radical)
