@@ -8,8 +8,14 @@
 * I’m passionate about Software Engineering, discovering new music, and playing sports/strategic games!
 * Below are some of the coding projects I've made.
 
-### 🎓 Computer Science at Georgia Institute of Technology (Alum)
+### 💼 Jobs
+* Current Software Engineer @ Bloomberg
+* Previous Software Development Engineer @ Amazon
+
+### 🎓 Education
+* Computer Science at Georgia Institute of Technology (Alum)
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 
 ### ⚙️ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonbien&layout=compact&theme=radical)
+<small>too much jupyter notebook</small>
