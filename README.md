@@ -8,7 +8,7 @@
 * I’m passionate about Software Engineering, discovering new music, and playing sports/strategic games!
 * Below are some of the coding projects I've made.
 
-### 🎓 Computer Science at Georgia Institute of Technology
+### 🎓 Computer Science at Georgia Institute of Technology (Alum)
 * Thread Concentrations: Artificial Intelligence & Information Internetworks
 
 ### ⚙️ GitHub Stats
