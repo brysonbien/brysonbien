@@ -18,4 +18,5 @@
 
 ### ⚙️ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonbien&layout=compact&theme=radical)
-<small>too much jupyter notebook</small>
+
+<sub><sup>too much jupyter notebook</sup></sub
